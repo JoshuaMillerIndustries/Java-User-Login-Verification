@@ -1,4 +1,6 @@
-class validatorTest{
+import java.util.Scanner;
+
+public class Main {
     public static void main(String[] args) {
 
         //introducing scanner to pick up login info
@@ -35,6 +37,6 @@ class validatorTest{
 
         }
 
-
     }
+
 }
